@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Elif Kilic!
 
-<!--
-**ekilic-coder/ekilic-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Research Data Analyst at the India Energy & Climate Center (IECC)  
+Goldman School of Public Policy, UC Berkeley
 
-Here are some ideas to get you started:
+💡 Using Python and data science to advance energy and climate policy  
+🌏 Interested in open-source, reproducible research, and impactful collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on ...
+
+## Skills
+- Python (pandas, numpy, matplotlib, scikit-learn)
+- Data Analysis & Visualization
+- Energy & Climate Policy Research
+- Git & GitHub
+
+## Find me
+- [LinkedIn](https://www.linkedin.com/)
+- [IECC at UC Berkeley](https://goldmanschool.berkeley.edu/iecc)
+
+Feel free to connect or collaborate!
+
