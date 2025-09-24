@@ -1,4 +1,4 @@
-## What's up? I'm Elif Kılıç  
+## What's up? I'm Elif Kılıç 👋  
 
 I am a Research Data Analyst at the India Energy & Climate Center (IECC), University of California, Berkeley.  
 My work combines climate science, data analysis, and open-source methods to understand and address the growing risks of extreme heat.  
@@ -7,20 +7,21 @@ I use Python and machine learning to create models and tools that can inform cli
 I believe research must be reproducible, collaborative, and accessible—especially for communities in the Global South,  
 who are too often excluded despite their knowledge and lived expertise being crucial to the work.  
 
----
+<details>
+<summary>🌎 Leer en Español</summary>
 
-## ¿K bolá"? Soy Elif Kılıç  
-
-Soy una Analista de Datos de Investigación en el India Energy & Climate Center (IECC), Universidad de California, Berkeley.  
+Soy Analista de Datos de Investigación en el India Energy & Climate Center (IECC), Universidad de California, Berkeley.  
 Mi trabajo combina ciencia climática, análisis de datos y métodos de código abierto para comprender y enfrentar los crecientes riesgos del calor extremo.  
 Utilizo Python y aprendizaje automático para crear modelos y herramientas que apoyen la adaptación climática y las políticas públicas.  
 
 Creo que la investigación debe ser reproducible, colaborativa y accesible—especialmente para las comunidades del Sur Global,  
 que con demasiada frecuencia son excluidas, a pesar de que su conocimiento y experiencia vivida son fundamentales para este trabajo.  
 
+</details>
+
 ---
 
-### Current Projects  
+## Current Projects 🌍  
 
 - **ClimaCoder ML Model (Independent Unfunded Project)**  
   An unaffiliated collaborative initiative to build machine learning models that project future heat extremes in Latin America.  
@@ -34,9 +35,8 @@ que con demasiada frecuencia son excluidas, a pesar de que su conocimiento y exp
   A modified Extended Heat Index that incorporates metabolic and solar heat loads.  
   This work preceded my time at IECC and continues to evolve as part of my research at Berkeley.  
 
----
-
-### Proyectos Actuales  
+<details>
+<summary>🌎 Leer en Español</summary>
 
 - **Modelo ClimaCoder (Proyecto Independiente sin Financiamiento)**  
   Una iniciativa colaborativa no afiliada para construir modelos de aprendizaje automático  
@@ -51,49 +51,56 @@ que con demasiada frecuencia son excluidas, a pesar de que su conocimiento y exp
   Un Índice de Calor Extendido modificado que incorpora cargas de calor metabólicas y solares.  
   Este trabajo antecede mi tiempo en IECC y sigue evolucionando como parte de mi investigación en Berkeley.  
 
+</details>
+
 ---
 
-### Skills and Tools  
+## Skills and Tools 🛠️  
 
 - **Python for Data Science**: pandas, numpy, matplotlib, scikit-learn, TensorFlow  
 - **Data Analysis and Visualization**: multi-dimensional climate datasets, maps, dashboards  
 - **Climate Policy Research**: connecting technical findings to adaptation policy and practice  
 - **Version Control**: Git & GitHub for collaborative, reproducible workflows  
 
----
-
-### Habilidades y Herramientas  
+<details>
+<summary>🌎 Leer en Español</summary>
 
 - **Python para Ciencia de Datos**: pandas, numpy, matplotlib, scikit-learn, TensorFlow  
 - **Análisis y Visualización de Datos**: conjuntos de datos climáticos multidimensionales, mapas, tableros  
 - **Investigación en Políticas Climáticas**: vincular hallazgos técnicos con políticas y prácticas de adaptación  
 - **Control de Versiones**: Git & GitHub para flujos de trabajo colaborativos y reproducibles  
 
+</details>
+
 ---
 
-### Links / Enlaces  
+## Let’s Talk! 🤝  
 
-- [ClimaCoder Research Dashboard](https://climacoder.com)  
-- [My Visualization Portfolio](https://elifkilic.org)  
-- [IECC at UC Berkeley](https://goldmanschool.berkeley.edu/iecc)  
-
-
-### Let’s talk!  
 I’m eager to learn from others—coffee Zooms and quick calls welcome.  
 Reach out and let’s see what we can build together.  
 
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/elifakilic/))  
+- [LinkedIn](https://www.linkedin.com/)  
 
 I welcome collaboration with researchers, students, and practitioners.  
 To me, open and just research is not optional—it is the foundation for building peer-reviewed knowledge that uplifts communities worldwide.  
 
----
+<details>
+<summary>🌎 Leer en Español</summary>
 
-### ¡Hablemos!  
 Tengo muchas ganas de aprender de los demás—conversaciones rápidas o un café por Zoom siempre son bienvenidos.  
 Conectemos y veamos qué podemos construir juntos.  
 
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/elifakilic/))  
+- [LinkedIn](https://www.linkedin.com/)  
 
 Doy la bienvenida a la colaboración con investigadores, estudiantes y profesionales.  
 Para mí, la investigación abierta y justa no es opcional—es la base para construir conocimiento revisado por pares que fortalezca a las comunidades en todo el mundo.  
+
+</details>
+
+---
+
+## Links 🔗  
+
+- [ClimaCoder Research Dashboard](https://climacoder.com)  
+- [My Visualization Portfolio](https://elifkilic.org)  
+- [IECC at UC Berkeley](https://goldmanschool.berkeley.edu/iecc)  
