@@ -31,7 +31,7 @@ que con demasiada frecuencia son excluidas, a pesar de que su conocimiento y exp
   Developing a machine learning framework to identify and project extreme heat events across India,  
   with direct applications for public health and climate adaptation planning.  
 
-- **EHI-350\***  
+- **EHI-N\***  
   A modified Extended Heat Index that incorporates metabolic and solar heat loads.  
   This work preceded my time at IECC and continues to evolve as part of my research at Berkeley.  
 
@@ -47,7 +47,7 @@ que con demasiada frecuencia son excluidas, a pesar de que su conocimiento y exp
   Desarrollo de un marco de aprendizaje automático para identificar y proyectar eventos de calor extremo en la India,  
   con aplicaciones directas en la salud pública y la planificación de la adaptación climática.  
 
-- **EHI-350\***  
+- **EHI-N\***  
   Un Índice de Calor Extendido modificado que incorpora cargas de calor metabólicas y solares.  
   Este trabajo antecede mi tiempo en IECC y sigue evolucionando como parte de mi investigación en Berkeley.  
 
